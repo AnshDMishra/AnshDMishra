@@ -1,5 +1,5 @@
 #
-### Hi 👋, I'm anshdmishra
+### Hi 👋, I'm anshdmishra (Ansh D Mishra)
 #
 #### A passionate frontend and backend developer from India
 #
