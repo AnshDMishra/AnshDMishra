@@ -1,10 +1,13 @@
 #
 ### Hi 👋, I'm anshdmishra (Ansh D Mishra)
 #
-#### A passionate frontend and backend developer from India
+#### *A Passionate Frontend & Backend Developer from India*
 #
 I am [Ansh D Mishra](https://github.com/anshdmishra), a passionate full stack web developer and a freelance software engineer from India.
 I enjoy being challenged and engaging with projects that require me to work outside my comfort and knowledge set, as continuing to learn new languages and development techniques are important to me and my success.
+#
+- 💼 any freelance work or offer? do reach, [email](mailto:anshvnm@gmail.com)
+- 💬 ask me about anything, *i am happy to help*;
 #
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
@@ -23,11 +26,6 @@ I enjoy being challenged and engaging with projects that require me to work outs
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-
-#
-<h4 align="left">Available on:</h4>
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'> 
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>
 
 #
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anshdmishra)](https://github.com/anuraghazra/github-readme-stats)
