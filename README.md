@@ -3,7 +3,7 @@
 #
 #### A passionate frontend and backend developer from India
 #
-Working as a Software Developer and having a strong background of experience in Business Operation Management, New Business Development, Business Strategy, Planning and Execution. 
+I am [Ansh D Mishra](https://github.com/anshdmishra), a passionate full stack web developer and a freelance software engineer from India.
 I enjoy being challenged and engaging with projects that require me to work outside my comfort and knowledge set, as continuing to learn new languages and development techniques are important to me and my success.
 #
 <h3 align="left">Languages and Tools:</h3>
