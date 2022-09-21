@@ -1,10 +1,14 @@
 #
-### Hi 👋, I'm anshdmishra (Ansh D Mishra)
-#
+### Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, I'm anshdmishra (Ansh D Mishra)
+# 
 #### *A Passionate Frontend & Backend Developer from India*
-#
-I am [Ansh D Mishra](https://github.com/anshdmishra), a passionate full stack web developer and a freelance software engineer from India.
 I enjoy being challenged and engaging with projects that require me to work outside my comfort and knowledge set, as continuing to learn new languages and development techniques are important to me and my success.
+
+#
+<samp>
+  I am a Creative🎡, Time Punctual👩‍🎓, Dedicated🎯, Goal-oriented Individual👩‍💻 with Decent Moral Values and Ethicates🙇‍♀️ along with a High-Energy Level🤹‍♀️, Honed Communication Skills👐, Strong Organizational Skills👮‍♀️, and Meticulous Attention🕵️‍♀️ to detail.
+</samp>
+   
 #
 - 💼 any freelance work or offer? do reach, [email](mailto:anshvnm@gmail.com)
 - 💬 ask me about anything, *i am happy to help*;
