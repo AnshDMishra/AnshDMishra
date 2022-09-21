@@ -28,7 +28,7 @@ I enjoy being challenged and engaging with projects that require me to work outs
 
 
 #
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anshdmishra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anshdmishra)]
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=anshdmishra&show_icons=true&count_private=true)  
 
