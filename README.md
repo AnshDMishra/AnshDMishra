@@ -32,9 +32,12 @@ I enjoy being challenged and engaging with projects that require me to work outs
 
 
 #
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anshdmishra)]
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=anshdmishra&show_icons=true&count_private=true)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=anshdmishra&show_icons=true&count_private=true)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anshdmishra&langs_count=10)
+<br/>
+    <b>Note:</b> Top languages is only a metric of the languages in my public code consists of and it doesn't reflect experience or skill level.
+  </details>
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=anshdmishra)  
 
