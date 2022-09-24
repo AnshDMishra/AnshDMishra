@@ -33,14 +33,9 @@ I enjoy being challenged and engaging with projects that require me to work outs
 
 #
 ### &#x1f4c8; GitHub Stats
-<br>
-<a href="https://github.com/anshdmishra">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshdmishra&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
 
-<a href="https://github.com/anshdmishra">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=anshdmishra&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
-</a>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnshDMishra&theme=tokyonight)
+
 
 <br/>
     <b>Note:</b> Top languages is only a metric of the languages in my public code consists of and it doesn't reflect experience or skill level.
