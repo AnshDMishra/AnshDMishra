@@ -34,8 +34,7 @@ I enjoy being challenged and engaging with projects that require me to work outs
 #
 ### &#x1f4c8; GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnshDMishra&layout=compact) 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AnshDMishra&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnshDMishra&layout=compact) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AnshDMishra&show_icons=true)
 
 
 <br/>
