@@ -2,7 +2,8 @@
 
 ### Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, I'm anshdmishra (Ansh D Mishra)
 # 
-#### *A Passionate Frontend & Backend Developer from India* :india:
+#### *A Passionate Frontend & Backend Developer from India* &nbsp; &nbsp; :india: | <img src='https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_India.png' width='24' height='18'>
+
 I enjoy being challenged and engaging with projects that require me to work outside my comfort and knowledge set, as continuing to learn new languages and development techniques are important to me and my success.
 
 #
