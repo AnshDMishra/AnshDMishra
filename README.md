@@ -6,6 +6,8 @@
 
 I enjoy being challenged and engaging with projects that require me to work outside my comfort and knowledge set, as continuing to learn new languages and development techniques are important to me and my success.
 
+###### *I Need And Welcome Your Guidance and Suggestions to get Better and Better in Me*
+
 #
 <samp>
   I am a Creative🎡, Time Punctual👩‍🎓, Dedicated🎯, Goal-oriented Individual👩‍💻 with Decent Moral Values and Ethicates🙇‍♀️ along with a High-Energy Level🤹‍♀️, Honed Communication Skills👐, Strong Organizational Skills👮‍♀️, and Meticulous Attention🕵️‍♀️ to detail.
