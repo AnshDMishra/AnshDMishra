@@ -1,10 +1,11 @@
-<div align="center">
-<a href="https://www.buymeacoffee.com/AnshDMishra" target="_blank" style="display: inline-block;">
+<div align="right">
+
+![Profile views](https://gpvc.arturio.dev/anshdmishra) [![Stars](https://img.shields.io/github/stars/AnshDMishra?label=Profile%20Stars&logo=Profile%20stars&logoColor=b)](#) <a href="https://www.buymeacoffee.com/AnshDMishra" target="_blank" style="display: inline-block;">
 <img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" align="right" /> </a>
 </div>
 
 
-### Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, I'm anshdmishra (Ansh D Mishra)
+### Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, I'm Ansh ![Ansh D Mishra](https://img.shields.io/badge/AnshDMishra-Ansh%20D%20Mishra-green)
 # 
 #### *A Passionate Frontend & Backend Developer from India* &nbsp; &nbsp; :india: | <img src='https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_India.png' width='24' height='18'>
 
@@ -45,8 +46,7 @@ I enjoy being challenged and engaging with projects that require me to work outs
 
 
 <br/>
-    <b>Note:</b> Top languages is only a metric of the languages in my public code consists of and it doesn't reflect experience or skill level.
-  </details>
+    <b>Note:</b> Top languages is only a metric of the languages in my public code consists of and it doesn't reflect experience or skill level
 <br>
 <br>
 
@@ -55,7 +55,6 @@ I enjoy being challenged and engaging with projects that require me to work outs
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=anshdmishra)
 
-![Profile views](https://gpvc.arturio.dev/anshdmishra)
 
 #
 
