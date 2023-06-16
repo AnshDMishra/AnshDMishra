@@ -1,6 +1,6 @@
 <div align="right">
 
-![Profile views](https://gpvc.arturio.dev/AnshDMishra) [![Stars](https://img.shields.io/github/stars/AnshDMishra?label=Profile%20Stars&logo=Profile%20stars&logoColor=b)](#) <a href="https://www.buymeacoffee.com/AnshDMishra" target="_blank" style="display: inline-block;">
+[![Stars](https://img.shields.io/github/stars/AnshDMishra?label=Profile%20Stars&logo=Profile%20stars&logoColor=b)](#) <a href="https://www.buymeacoffee.com/AnshDMishra" target="_blank" style="display: inline-block;">
 <img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" align="right" /> </a>
 </div>
 
