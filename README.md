@@ -9,7 +9,7 @@
 # 
 #### *A Passionate Frontend & Backend Developer from India* &nbsp; &nbsp; :india: | <img src='https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_India.png' width='24' height='18'>
 
-"I thrive on challenges, relishing every opportunity to dive into projects that push me past my limits and broaden my skill set. The journey of learning new languages and mastering cutting-edge development techniques isn't just a path to success—it's a thrilling adventure that fuels my passion and deepens my sense of fulfillment."
+I thrive on challenges, relishing every opportunity to dive into projects that push me past my limits and broaden my skill set. The journey of learning new languages and mastering cutting-edge development techniques isn't just a path to success—it's a thrilling adventure that fuels my passion and deepens my sense of fulfillment.
 
 
 ###### *"I warmly embrace your guidance and suggestions, as they light my path and inspire me to evolve into the best version of myself."*
