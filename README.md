@@ -11,7 +11,6 @@
 
 I enjoy being challenged and engaging with projects that require me to work outside my comfort and knowledge set, as continuing to learn new languages and development techniques are important to me and my success.
 
-###### *I Need And Welcome Your Guidance and Suggestions to get Better and Better in Me*
 ###### *"I warmly embrace your guidance and suggestions, as they light my path and inspire me to evolve into the best version of myself."*
 
 #
