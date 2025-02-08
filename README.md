@@ -7,14 +7,10 @@
 
 ### Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, I'm Ansh ![Ansh D Mishra](https://img.shields.io/badge/AnshDMishra-Ansh%20D%20Mishra-green) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 #### *“A Driven and Creative Full-Stack Developer from India , Crafting Seamless Experiences on Both Frontend and Backend”* &nbsp; &nbsp; :india: | <img src='https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_India.png' width='24' height='18'>
-
 #
 I thrive on challenges, relishing every opportunity to dive into projects that push me past my limits and broaden my skill set. The journey of learning new languages and mastering cutting-edge development techniques isn't just a path to success—it's a thrilling adventure that fuels my passion and deepens my sense of fulfillment.<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 # 
-
-
 ###### *"I warmly embrace your guidance and suggestions, as they light my path and inspire me to evolve into the best version of myself."* <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
-
 #
 <samp>
   I am a Creative🎡, Time Punctual👩‍🎓, Dedicated🎯, Goal-oriented Individual👩‍💻 with Decent Moral Values and Ethicates🙇‍♀️ along with a High-Energy Level🤹‍♀️, Honed Communication Skills👐, Strong Organizational Skills👮‍♀️, and Meticulous Attention🕵️‍♀️ to detail.
@@ -53,10 +49,7 @@ I thrive on challenges, relishing every opportunity to dive into projects that p
 <br>
 <br>
 
-
-
 #
-
 ### _Tech Stack_ <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px; height=40px>
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=c-sharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=plastic&logo=adobephotoshop&logoColor=white)
