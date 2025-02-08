@@ -56,6 +56,9 @@ I thrive on challenges, relishing every opportunity to dive into projects that p
 
 ![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=anshdmishra)
 
+[![ Github Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anshdmishra&theme=radical&hide_border=true)
+
+
 
 #
 
