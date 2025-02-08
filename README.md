@@ -5,15 +5,15 @@
 </div>
 
 
-### Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, I'm Ansh ![Ansh D Mishra](https://img.shields.io/badge/AnshDMishra-Ansh%20D%20Mishra-green) 
+### Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, I'm Ansh ![Ansh D Mishra](https://img.shields.io/badge/AnshDMishra-Ansh%20D%20Mishra-green) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 #### *“A Driven and Creative Full-Stack Developer from India , Crafting Seamless Experiences on Both Frontend and Backend”* &nbsp; &nbsp; :india: | <img src='https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_India.png' width='24' height='18'>
 
 #
-I thrive on challenges, relishing every opportunity to dive into projects that push me past my limits and broaden my skill set. The journey of learning new languages and mastering cutting-edge development techniques isn't just a path to success—it's a thrilling adventure that fuels my passion and deepens my sense of fulfillment.
-#
+I thrive on challenges, relishing every opportunity to dive into projects that push me past my limits and broaden my skill set. The journey of learning new languages and mastering cutting-edge development techniques isn't just a path to success—it's a thrilling adventure that fuels my passion and deepens my sense of fulfillment.<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+# 
 
 
-###### *"I warmly embrace your guidance and suggestions, as they light my path and inspire me to evolve into the best version of myself."*
+###### *"I warmly embrace your guidance and suggestions, as they light my path and inspire me to evolve into the best version of myself."* <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 #
 <samp>
@@ -24,7 +24,7 @@ I thrive on challenges, relishing every opportunity to dive into projects that p
 - 💼 any freelance work or offer? do reach, [email](mailto:anshvnm@gmail.com)
 - 💬 ask me about anything, *i am happy to help*;
 #
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
@@ -44,19 +44,14 @@ I thrive on challenges, relishing every opportunity to dive into projects that p
 #
 ### &#x1f4c8; GitHub Stats
 
-[![Ansh's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=AnshDMishra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/AnshDMishra/github-readme-stats#gh-light-mode-only)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnshDMishra&langs_count=8)](https://github.com/AnshDMishra/github-readme-stats)
+[![Ansh's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=AnshDMishra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/AnshDMishra/github-readme-stats#gh-light-mode-only)
+![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=anshdmishra)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnshDMishra&langs_count=8)](https://github.com/AnshDMishra/github-readme-stats)
 
 <br/>
     <b>Note:</b> Top languages is only a metric of the languages in my public code consists of and it doesn't reflect experience or skill level
 <br>
 <br>
-
-
-![GitHub metrics stats](https://metrics.lecoq.io/anshdmishra)  
-
-![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=anshdmishra)
-
-[![ Github Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anshdmishra&theme=radical&hide_border=true)
 
 
 
