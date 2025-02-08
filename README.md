@@ -52,9 +52,9 @@ I thrive on challenges, relishing every opportunity to dive into projects that p
 <br>
 
 
-![GitHub metrics](https://metrics.lecoq.io/anshdmishra)  
+![GitHub metrics stats](https://metrics.lecoq.io/anshdmishra)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=anshdmishra)
+![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=anshdmishra)
 
 
 #
