@@ -5,8 +5,8 @@
 </div>
 
 
-### Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, I'm Ansh ![Ansh D Mishra](https://img.shields.io/badge/AnshDMishra-Ansh%20D%20Mishra-green) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-#### *“A Driven and Creative Full-Stack Developer from India , Crafting Seamless Experiences on Both Frontend and Backend”* &nbsp; &nbsp; :india: | <img src='https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_India.png' width='24' height='18'>
+### Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, I'm Ansh ![Ansh D Mishra](https://img.shields.io/badge/AnshDMishra-Ansh%20D%20Mishra-green) 
+#### *“A Driven and Creative Full-Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  from India , Crafting Seamless Experiences on Both Frontend and Backend”* &nbsp; &nbsp; :india: | <img src='https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_India.png' width='24' height='18'>
 # 
  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> I thrive on challenges, relishing every opportunity to dive into projects that push me past my limits and broaden my skill set. The journey of learning new languages and mastering cutting-edge development techniques isn't just a path to success, it's a thrilling adventure that fuels my passion and deepens my sense of fulfillment.
 
@@ -84,6 +84,5 @@
 <div style="text-align: center;">
     <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" style="display: block; margin: 0 auto;">
     <em><b>I love connecting with new people!</b> If you ever want to say <b>hi or have a chat, I’d be more than happy to meet and get to know you</b> </em>
-    <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" style="display: block; margin: 0 auto;">
 </div>
 
