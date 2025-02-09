@@ -45,7 +45,8 @@
 ![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=anshdmishra)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnshDMishra&langs_count=8)](https://github.com/AnshDMishra/github-readme-stats)
 <br/>
-    <b>Note:</b> Top languages is only a metric of the languages in my public code consists of and it doesn't reflect experience or skill level.
+> [!NOTE]
+> Top languages is only a metric of the languages in my public code consists of and it doesn't reflect experience or skill level.
 <br>
 <br>
 
