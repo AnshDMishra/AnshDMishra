@@ -6,7 +6,7 @@
 
 
 ### Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, I'm Ansh ![Ansh D Mishra](https://img.shields.io/badge/AnshDMishra-Ansh%20D%20Mishra-green) 
-#### *“A Driven and Creative Full-Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  from &nbsp; :india: | <img src='https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_India.png' width='22' height='16'> , Crafting Seamless Experiences on Both Frontend and Backend”* 
+#### *“A Driven and Creative Full-Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  from &nbsp; :india: | <img src='https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_India.png' width='24' height='18'> , Crafting Seamless Experiences on Both Frontend and Backend”* 
 # 
  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> I thrive on challenges, relishing every opportunity to dive into projects that push me past my limits and broaden my skill set. The journey of learning new languages and mastering cutting-edge development techniques isn't just a path to success, it's a thrilling adventure that fuels my passion and deepens my sense of fulfillment.
 
