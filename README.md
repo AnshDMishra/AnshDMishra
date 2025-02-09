@@ -79,4 +79,10 @@
 <p align="center">
   <img src="https://github.com/manumishra12/manumishra12/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+<div style="text-align: center;">
+    <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" style="display: block; margin: 0 auto;">
+    <em><b>I love connecting with new people!</b> If you ever want to say <b>hi or have a chat, I’d be more than happy to meet and get to know you</b> </em>
+    <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" style="display: block; margin: 0 auto;">
+</div>
+
