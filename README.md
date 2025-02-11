@@ -42,7 +42,6 @@
 ### &#x1f4c8; GitHub Stats
 
 [![Ansh's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=AnshDMishra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/AnshDMishra/github-readme-stats#gh-light-mode-only)
-![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=anshdmishra)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnshDMishra&langs_count=8)](https://github.com/AnshDMishra/github-readme-stats)
 <br/>
 > [!NOTE]
