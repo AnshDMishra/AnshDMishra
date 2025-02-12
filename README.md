@@ -13,8 +13,10 @@
 # 
 ###### *"I warmly embrace your guidance and suggestions, as they light my path and inspire me to evolve into the best version of myself."* <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 #
+
 <samp>
-  I am a Creative🎡, Time Punctual👩‍🎓, Dedicated🎯, Goal-oriented Individual👩‍💻 with Decent Moral Values and Ethicates🙇‍♀️ along with a High-Energy Level🤹‍♀️, Honed Communication Skills👐, Strong Organizational Skills👮‍♀️, and Meticulous Attention🕵️‍♀️ to detail.
+I am a Creative 🎨, Punctual ⏰, and Dedicated 🎯 professional with a Goal-Oriented Mindset 💻. I uphold Strong Moral Values 🤝 and Ethics 🌟, 
+ coupled with High Energy ⚡, Excellent Communication Skills 🗣️, Strong Organizational Abilities 📂, and Meticulous Attention to Detail 🔍. 🚀
 </samp>
    
 #
