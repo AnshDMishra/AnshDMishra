@@ -42,10 +42,11 @@ I am a Creative 🎨, Punctual ⏰, and Dedicated 🎯 professional with a Goal-
 
 #
 ### &#x1f4c8; GitHub Stats
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=AnshDMishra&show_icons=true&locale=en" alt="AnshDMishra" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AnshDMishra&" alt="AnshDMishra"
+</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AnshDMishra&show_icons=true&locale=en&layout=compact" alt="AnshDMishra" /></p>
 
-[![Ansh's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=AnshDMishra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/AnshDMishra/github-readme-stats#gh-light-mode-only)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnshDMishra&langs_count=8)](https://github.com/AnshDMishra/github-readme-stats)
-<br/>
 > [!NOTE]
 > Top languages is only a metric of the languages in my public code consists of and it doesn't reflect experience or skill level.
 <br>
