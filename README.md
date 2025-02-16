@@ -41,16 +41,18 @@ I am a Creative 🎨, Punctual ⏰, and Dedicated 🎯 professional with a Goal-
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
 #
-### &#x1f4c8; GitHub Stats
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=AnshDMishra&show_icons=true&locale=en" alt="AnshDMishra" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AnshDMishra&" alt="AnshDMishra"
+### &#x1f4c8; Most Used Languages & GitHub Stats
+<p>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=AnshDMishra&show_icons=true&locale=en" alt="AnshDMishra" />
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnshDMishra&hide_progress=true"alt="AnshDMishra"/>
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AnshDMishra&show_icons=true&locale=en&layout=compact" alt="AnshDMishra" /></p>
 
 > [!NOTE]
 > Top languages is only a metric of the languages in my public code consists of and it doesn't reflect experience or skill level.
 <br>
 <br>
+
+
 
 #
 ### _Tech Stack_ <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px; height=40px>
@@ -87,4 +89,6 @@ I am a Creative 🎨, Punctual ⏰, and Dedicated 🎯 professional with a Goal-
     <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" style="display: block; margin: 0 auto;">
     <em><b>I love connecting with new people!</b> If you ever want to say <b>hi or have a chat, I’d be more than happy to meet and get to know you</b> </em>
 </div>
+
+
 
