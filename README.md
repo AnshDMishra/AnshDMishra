@@ -76,15 +76,12 @@ I am a Creative 🎨, Punctual ⏰, and Dedicated 🎯 professional with a Goal-
     <a href="https://github.com/anshdmishra" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
     <a href="mailto:anshvnm@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
     <a href="https://wa.me/919415180182/?text=Hi Ansh, Whatsup" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/whatsapp.png" alt="WhatsApp"/></a>
-    <img width="35%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+    <img width="30%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
  </p>
- 
- 
-<!-- SNAKE GRID -->
-<p align="center">
-  <img src="https://github.com/manumishra12/manumishra12/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
 
+ 
+<br>
+<br>
 <div style="text-align: center;">
     <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" style="display: block; margin: 0 auto;">
     <em><b>I love connecting with new people!</b> If you ever want to say <b>hi or have a chat, I’d be more than happy to meet and get to know you</b> </em>
