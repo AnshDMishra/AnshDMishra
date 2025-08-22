@@ -13,15 +13,12 @@
 # 
 ###### *"I warmly embrace your guidance and suggestions, as they light my path and inspire me to evolve into the best version of myself."* <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 #
-
-<samp>
-I am a Creative 🎨, Punctual ⏰, and Dedicated 🎯 professional with a Goal-Oriented Mindset 💻. I uphold Strong Moral Values 🤝 and Ethics 🌟, 
- coupled with High Energy ⚡, Excellent Communication Skills 🗣️, Strong Organizational Abilities 📂, and Meticulous Attention to Detail 🔍. 🚀
-</samp>
-   
-#
-- 💼 any freelance work or offer? do reach, [email](mailto:anshvnm@gmail.com)
-- 💬 ask me about anything, *i am happy to help*;
+  
+- 🌱 Currently exploring **.NET Core, Web3, and Cloud Tech**  
+- 💼 Open to freelance projects & collaborations → [email me](mailto:anshvnm@gmail.com)  
+- 💬 Ask me about **SQL, ASP.NET, Python, Microservices, or Data Engineering**  
+- 🎯 Passionate about building **scalable apps** & automating workflows  
+- ⚡ Fun fact: I love blending tech with creativity ✨  
 #
 <h3 align="left">Languages and Tools:<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
@@ -41,11 +38,11 @@ I am a Creative 🎨, Punctual ⏰, and Dedicated 🎯 professional with a Goal-
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
 #
-### &#x1f4c8; Most Used Languages & GitHub Stats
-<p>
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=AnshDMishra&show_icons=true&locale=en" alt="AnshDMishra" />
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnshDMishra&hide_progress=true"alt="AnshDMishra"/>
-</p>
+### &#x1f4c8; GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AnshDMishra&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnshDMishra&layout=compact&theme=tokyonight" height="160"/>
+</p>>
 
 > [!NOTE]
 > Top languages is only a metric of the languages in my public code consists of and it doesn't reflect experience or skill level.
