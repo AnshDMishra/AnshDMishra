@@ -14,7 +14,7 @@
 ###### *"I warmly embrace your guidance and suggestions, as they light my path and inspire me to evolve into the best version of myself."* <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 #
   
-- 🌱 Currently exploring ** Web3 and Cloud Tech**  
+- 🌱 Currently exploring **Web3 and Cloud Tech**  
 - 💼 Open to freelance projects & collaborations → [email me](mailto:anshvnm@gmail.com)  
 - 💬 Ask me about **SQL, ASP.NET, Python, Microservices, or Data Engineering**  
 - 🎯 Passionate about building **scalable apps** & automating workflows  
